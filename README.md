@@ -1,8 +1,6 @@
 ## Demo
 
-<video src="https://github.com/ojas-ba/metro-station-crowd-evacuation/raw/refs/heads/main/Screen-Recording-Final.mp4" controls width="100%" preload="metadata">
-  <a href="Screen-Recording-Final.mp4">Watch the demo (MP4)</a>
-</video>
+[Watch or download the demo (MP4)](Screen-Recording-Final.mp4)
 
 # Metro Station Crowd Evacuation Simulation Using Unity and Virtual Reality
 
